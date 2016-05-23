@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<firm>
+  <employee employeename="emp1">
+    <project>  
+		<prname>pr1</prname>
+		<customer>cust</customer>
+		<manager>manag</manager>
+	</project>
+  </employee>
+  <employee employeename="emp2">
+    <project>  
+		<prname>pr2</prname>
+		<customer>cust</customer>
+		<manager>manag</manager>
+	</project>
+  </employee>
+ 
+</firm> 
